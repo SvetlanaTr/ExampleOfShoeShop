@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DmitryKorolDevPro/MentorshipProgramRemoteProject.git"
+    "url": "git+https://github.com/SvetlanaTr/ExampleOfShoeShop.git"
   },
   "author": "Trupkina and Khyzhniak",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DmitryKorolDevPro/MentorshipProgramRemoteProject/issues"
+    "url": "https://github.com/SvetlanaTr/ExampleOfShoeShop/issues"
   },
-  "homepage": "https://github.com/DmitryKorolDevPro/MentorshipProgramRemoteProject#readme",
+  "homepage": "https://github.com/SvetlanaTr/ExampleOfShoeShop",
   "dependencies": {
     "cors": "2.8.5",
     "express": "4.17.1",
